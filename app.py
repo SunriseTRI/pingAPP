@@ -74,6 +74,5 @@ if __name__ == '__main__':
     import threading
     telegram_thread = threading.Thread(target=start_telegram_bot)
     telegram_thread.start()
-
     # Запуск веб-сервера Flask
     app.run(host='0.0.0.0', port=5000)
