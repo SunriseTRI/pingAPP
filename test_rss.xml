@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Пример RSS канала</title>
+    <link>https://example.com/</link>
+    <description>Это пример RSS фида для тестирования обхода страниц.</description>
+    <item>
+      <title>Страница 1</title>
+      <link>https://navigatorm.com/shop/</link>
+      <description>Nagibator-SHOP</description>
+    </item>
+    <item>
+      <title>Страница 2</title>
+      <link>https://ivanglonassov.ru/catalog/avtomobilnye_trekery/uveos-gorizont-a-2-1/</link>
+      <description>Ivan-Ananassov</description>
+    </item>
+    <item>
+      <title>Страница 3</title>
+      <link>https://teltonika-networks.com/products/routers/rut950</link>
+      <description>DILDONIKA</description>
+    </item>
+  </channel>
+</rss>
